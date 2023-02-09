@@ -1,0 +1,40 @@
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+body {
+    margin: 10px;
+    max-width: 1000px;
+    align-items: center;
+    background-color: white;
+
+}
+
+html {
+    background-color: aqua;
+    justify-content: center;
+
+}
+
+img.right{
+    float: right;
+    margin: 1em;
+}
+img.left {
+    float: left;
+    margin: 1em;
+}
+img {
+    width: 25%;
+    height: 25%;    
+
+}
+
+footer {
+    text-align: center;
+    
+}
+p {
+    font-size: 90%;
+}
